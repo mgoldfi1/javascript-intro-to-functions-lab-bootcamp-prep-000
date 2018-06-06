@@ -8,4 +8,4 @@ function logShout(string) {console.log(string.toUpperCase())
 }
 function logWhisper(string){console.log(string.toLowerCase())}
 var canthear = "I can't hear you!"
-function sayHiToGrandma(string.toLowerCase){return canthear}
+function sayHiToGrandma(string.toLowerCase()){return canthear}
